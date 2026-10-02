@@ -1,0 +1,6 @@
+{
+  "name": "Guia Marmita Fit - Protocolo Verão 42",
+  "description": "Mini App Mobile com 10 receitas práticas de marmitas fit, montagem visual, roteiro de meal prep de 2 horas, lista de compras e checklist semanal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
